@@ -8,3 +8,6 @@ Quais fabricantes de vacina aparecem nessa base de dados? Essa base tem todas as
 
 ## Questão 3
 Quantas entradas tem sexo biologico feminino? e masculino?
+
+## Questão 4
+Agora que temos o dado em DataFrame refaça os exercicios 1, 2, 3 porém usando o nosso DataFrame!
